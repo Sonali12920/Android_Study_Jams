@@ -1,0 +1,20 @@
+1. Which of the following is a ViewGroup?
+Sol: LinearLayout
+
+2. A ScrollView is a ViewGroup that can contain any number of Views or ViewGroups as its children. True or false?
+Sol: False
+
+3. For EditText views, it's not a good practice to provide hints because hints clutter the input field. True or false?
+Sol: False
+
+4. Which one of the following statements is true about Buttons?
+Sol: Buttons are clickable and, on click, the attached click listener performs an action.
+
+5. In a ConstraintLayout, which of the following constraints are needed to position a view onscreen?
+Sol: At least one horizontal and one vertical constraint.
+
+6. The baseline constraint aligns the text baseline of a view to the text baseline of another view. True or false?
+Sol: True
+
+7. Why would you want to use data binding instead of calls to findViewById()?
+Sol: Code is shorter, easier to read, and maintain.
