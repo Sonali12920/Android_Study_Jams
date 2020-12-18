@@ -1,0 +1,16 @@
+1. Fill in the blank...
+___ ___ is an integrated development environment or IDE used for building Android apps.
+Sol: Android Studio
+
+2. What is the name of the auto-generated layout file in the new project you created with Android Studio?
+Sol: activity_main.xml
+
+3. The AndroidManifest.xml file contains important information that the Android system needs to run your app. Choose two from the following list that should be defined in AndroidManifest.xml.
+Sol: activities in the app, permissions
+
+4. In Android Studio, which tool do you use to create a new virtual device to run in the emulator?
+Sol: AVD Manager
+
+5. Fill in the blank...
+______ is a build automation system that uses a domain-specific language to describe the app's project structure, configuration, and dependencies.
+Sol: Gradle
