@@ -1,0 +1,17 @@
+1. Which method on an Activity inflates the app's layout and makes the views in its view hierarchy available for you to modify?
+Sol: onCreate()
+
+2. Which view attribute do you use to set the width of a view so that it adjusts to fit the content inside it?
+Sol: android:layout_width="wrap_content"
+
+3. Which ImageView attribute indicates a source image that will only be displayed as a preview in Android Studio (but not in the actual app)?
+Sol: tools:src
+
+4. What does the lateinit keyword in a variable declaration indicate in Kotlin code?
+Sol: The variable will be initialized later.
+
+5. Which API level indicates the highest Android version that your app has been tested with?
+Sol: targetSdkVersion
+
+6. You see an import statement in your code that starts with androidx. What does this mean?
+Sol: The class is part of the Android Jetpack libraries.
